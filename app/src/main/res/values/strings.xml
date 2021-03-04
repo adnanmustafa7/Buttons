@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+    <string name="t">ToggleButton</string>
+    <string name="r">Ratingbar</string>
+    <string name="c">CheckBox</string>
+    <string name="py">Python</string>
+
+</resources>
